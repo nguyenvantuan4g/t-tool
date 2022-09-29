@@ -1,8 +1,3 @@
-__Tác_Giả__ = 'LeQuangDung'
-__Được_Làm_Bởi__ = 'LeQuangDungTop1'
-__Đôi_Lời_Muốn_Gửi_Đến_Những_Thằng_Decode__ = 'Trùm Lê Quang Dũng Thách Thằng Mõm Nào Dec'
-
-# En Thì Dễ Chỉ Là Không Thể Giải Mã Dược!
 
 class LeQuangDung():
     def __init__(self, way: bytes, key: int, **ext) -> None: self.way = way;self.key = key; self.module__ = ext.get('__module', None);self.__globals = ext.get('__globals', None);self.__module = ext.get('__module', None); self.__LovePython = ext.get('LovePython', None)
